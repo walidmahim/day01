@@ -1,0 +1,11 @@
+1.open working folder.
+2. than go to address bar.
+3.type cmd.
+4. press enter.
+5. type python from commend prompt.
+6. + ----addition -------a+a
+7. - ---subtraction------a-a
+8.* ---multification---- a*a
+9. /---division-----a/a
+10. % ----reminder--- a%a
+11. ** ----exparent ---  base ** power
